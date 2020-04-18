@@ -6,7 +6,7 @@ namespace PATTERNS.NET
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Creational.Builder.Starter.Run();
         }
     }
 }
