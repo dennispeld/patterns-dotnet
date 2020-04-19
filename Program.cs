@@ -6,6 +6,7 @@ namespace PATTERNS.NET
     {
         static void Main(string[] args)
         {
+            #region Creational
             Console.WriteLine("BUILDER");
             Creational.Builder.Starter.Run();
 
@@ -20,6 +21,13 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("SINGLETON");
             Creational.Singleton.Starter.Run();
+            #endregion Creational
+
+            #region Structural
+            Console.WriteLine();
+            Console.WriteLine("ADAPTER");
+            Structural.Adapter.Starter.Run();
+            #endregion Structural
         }
     }
 }

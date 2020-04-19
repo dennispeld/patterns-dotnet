@@ -9,7 +9,7 @@
 - [Singleton](Creational/Singleton)
 
 ## Structural Patterns
-- Adapter
+- [Adapter](Structural/Adapter)
 - Bridge
 - Composite
 - Decorator
