@@ -3,8 +3,8 @@
 **patterns-dotnet** is a simple .NET Core 3.1 console application to demonstrate some of the design patterns using C# language.
 
 ## Creational Patterns
-- [Builder](Creational\Builder)
-- [Factory](Creational\Factory)
+- [Builder](Creational/Builder)
+- [Factory](Creational/Factory)
 - Prototype
 - Singleton
 
