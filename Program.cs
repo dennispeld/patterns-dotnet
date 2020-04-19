@@ -12,6 +12,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("FACTORY");
             Creational.Factory.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("PROTOTYPE");
+            Creational.Prototype.Starter.Run();
         }
     }
 }

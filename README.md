@@ -5,7 +5,7 @@
 ## Creational Patterns
 - [Builder](Creational/Builder)
 - [Factory](Creational/Factory)
-- Prototype
+- [Prototype](Creational/Prototype)
 - Singleton
 
 ## Structural Patterns
