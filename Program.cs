@@ -16,6 +16,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("PROTOTYPE");
             Creational.Prototype.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("SINGLETON");
+            Creational.Singleton.Starter.Run();
         }
     }
 }

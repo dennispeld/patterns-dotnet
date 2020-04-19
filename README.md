@@ -6,7 +6,7 @@
 - [Builder](Creational/Builder)
 - [Factory](Creational/Factory)
 - [Prototype](Creational/Prototype)
-- Singleton
+- [Singleton](Creational/Singleton)
 
 ## Structural Patterns
 - Adapter
