@@ -1,6 +1,6 @@
 # Bridge
 
-**Bridge** is a design pattern, ehich is used to separate abstraction from its implementation so that both can be modified independently.
+**Bridge** is a design pattern, which is used to separate abstraction from its implementation so that both can be modified independently.
 
 ## Example
 Let's say, we want to order books online or in the walk-in bookstore. The idea is to implement such order system, that would allow us to 
