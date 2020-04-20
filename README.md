@@ -15,7 +15,7 @@
 - [Decorator](Structural/Decorator)
 - [Facade](Structural/Facade)
 - [Flyweight](Structural/Flyweight)
-- Proxy
+- [Proxy](Structural/Proxy)
 
 ## Behavioral Patterns
 - Chain of Responsibility

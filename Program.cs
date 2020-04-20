@@ -47,6 +47,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("FLYWEIGHT");
             Structural.Flyweight.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("PROXY");
+            Structural.Proxy.Starter.Run();
             #endregion Structural
         }
     }
