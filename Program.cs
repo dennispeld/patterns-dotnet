@@ -35,6 +35,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("COMPOSITE");
             Structural.Composite.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("DECORATOR");
+            Structural.Decorator.Starter.Run();
             #endregion Structural
         }
     }
