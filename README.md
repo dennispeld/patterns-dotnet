@@ -13,7 +13,7 @@
 - [Bridge](Structural/Bridge)
 - [Composite](Structural/Composite)
 - [Decorator](Structural/Decorator)
-- Facade
+- [Facade](Structural/Facade)
 - Flyweight
 - Proxy
 
