@@ -10,7 +10,7 @@
 
 ## Structural Patterns
 - [Adapter](Structural/Adapter)
-- Bridge
+- [Bridge](Structural/Bridge)
 - Composite
 - Decorator
 - Facade

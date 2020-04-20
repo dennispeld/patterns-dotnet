@@ -27,6 +27,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("ADAPTER");
             Structural.Adapter.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("BRIDGE");
+            Structural.Bridge.Starter.Run();
             #endregion Structural
         }
     }
