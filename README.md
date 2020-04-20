@@ -14,7 +14,7 @@
 - [Composite](Structural/Composite)
 - [Decorator](Structural/Decorator)
 - [Facade](Structural/Facade)
-- Flyweight
+- [Flyweight](Structural/Flyweight)
 - Proxy
 
 ## Behavioral Patterns

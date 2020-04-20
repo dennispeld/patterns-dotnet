@@ -43,6 +43,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("FACADE");
             Structural.Facade.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("FLYWEIGHT");
+            Structural.Flyweight.Starter.Run();
             #endregion Structural
         }
     }
