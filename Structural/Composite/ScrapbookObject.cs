@@ -22,7 +22,10 @@ namespace PATTERNS.NET.Structural.Composite
 
         public void PrintScrapbookObjects(StringBuilder sb, int depth)
         {
-            sb.Append(new string('*', depth)).AppendLine(Type.ToString());
+            if (depth == 0)
+                sb.Append("└").AppendLine(Type.ToString());
+            else 
+                sb.Append(new string(' ', depth - 1)).Append("└").AppendLine(Type.ToString());
 
             foreach (var child in Children) {
                 child.PrintScrapbookObjects(sb, depth + 1);
