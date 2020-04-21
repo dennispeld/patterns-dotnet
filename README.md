@@ -20,7 +20,7 @@
 ## Behavioral Patterns
 - [Chain of Responsibility](Behavioral/ChainOfResponsibility) (**Used for:** allowing multiple different objects to possibly process a request)
 - [Command](Behavioral/Command) (**Used for:** encapsulating requests as objects so that they can be handled differently by different receivers) - **very useful**
-- Interpreter
+- [Interpreter](Behavioral/Interpreter) (**Used for:** interpreting an input)
 - Iterator
 - Mediator
 - Memento
