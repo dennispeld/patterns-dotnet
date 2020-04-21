@@ -73,6 +73,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("MEDIATOR");
             Behavioral.Mediator.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("MEMENTO");
+            Behavioral.Memento.Starter.Run();
             #endregion Behavioral
         }
     }

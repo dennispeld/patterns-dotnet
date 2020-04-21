@@ -23,7 +23,7 @@
 - [Interpreter](Behavioral/Interpreter) (**Used for:** interpreting an input)
 - **[Iterator](Behavioral/Iterator)** (**Used for:** extracting objects from a collection without exposing the collection itself) - **very useful**
 - [Mediator](Behavioral/Mediator) (**Used for:** defining how objects interact with each other)
-- Memento
+- [Memento](Behavioral/Memento) (**Used for:** restoring an object's state from a previous state)
 - Null Object
 - Observer
 - State
