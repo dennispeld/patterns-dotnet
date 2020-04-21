@@ -69,6 +69,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("ITERATOR");
             Behavioral.Iterator.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("MEDIATOR");
+            Behavioral.Mediator.Starter.Run();
             #endregion Behavioral
         }
     }
