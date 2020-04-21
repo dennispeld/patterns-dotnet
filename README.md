@@ -18,7 +18,7 @@
 - [Proxy](Structural/Proxy) (**Used for:** controlling access to a particular object) - **very useful**
 
 ## Behavioral Patterns
-- Chain of Responsibility
+- [Chain of Responsibility](Behavioral/ChainOfResponsibility)
 - Command
 - Interpreter
 - Iterator

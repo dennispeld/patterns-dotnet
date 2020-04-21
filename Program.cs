@@ -52,6 +52,12 @@ namespace PATTERNS.NET
             Console.WriteLine("PROXY");
             Structural.Proxy.Starter.Run();
             #endregion Structural
+
+            #region Behavioral
+            Console.WriteLine();
+            Console.WriteLine("CHAIN OF RESPONSIBILITY");
+            Behavioral.ChainOfResponsibility.Starter.Run();
+            #endregion Behavioral
         }
     }
 }
