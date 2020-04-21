@@ -65,6 +65,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("INERPRETER");
             Behavioral.Interpreter.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("ITERATOR");
+            Behavioral.Iterator.Starter.Run();
             #endregion Behavioral
         }
     }

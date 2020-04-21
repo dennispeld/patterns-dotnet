@@ -21,7 +21,7 @@
 - [Chain of Responsibility](Behavioral/ChainOfResponsibility) (**Used for:** allowing multiple different objects to possibly process a request)
 - [Command](Behavioral/Command) (**Used for:** encapsulating requests as objects so that they can be handled differently by different receivers) - **very useful**
 - [Interpreter](Behavioral/Interpreter) (**Used for:** interpreting an input)
-- Iterator
+- [Iterator](Behavioral/Iterator) (**Used for:** extracting objects from a collection without exposing the collection itself) - **very useful**
 - Mediator
 - Memento
 - Null Object
