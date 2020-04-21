@@ -18,8 +18,8 @@
 - [Proxy](Structural/Proxy) (**Used for:** controlling access to a particular object) - **very useful**
 
 ## Behavioral Patterns
-- [Chain of Responsibility](Behavioral/ChainOfResponsibility)
-- Command
+- [Chain of Responsibility](Behavioral/ChainOfResponsibility) (**Used for:** allowing multiple different objects to possibly process a request)
+- [Command](Behavioral/Command) (**Used for:** encapsulating requests as objects so that they can be handled differently by different receivers) - **very useful**
 - Interpreter
 - Iterator
 - Mediator

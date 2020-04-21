@@ -57,6 +57,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("CHAIN OF RESPONSIBILITY");
             Behavioral.ChainOfResponsibility.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("COMMAND");
+            Behavioral.Command.Starter.Run();
             #endregion Behavioral
         }
     }
