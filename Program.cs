@@ -97,6 +97,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("TEMPLATE METHOD");
             Behavioral.TemplateMethod.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("VISITOR");
+            Behavioral.Visitor.Starter.Run();
             #endregion Behavioral
         }
     }
