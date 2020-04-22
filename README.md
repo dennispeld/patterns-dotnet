@@ -26,7 +26,7 @@
 - [Memento](Behavioral/Memento) (**Used for:** restoring an object's state from a previous state)
 - [Null Object](Behavioral/NullObject) (**Used for:** ignoring a piece of functionality)
 - **[Observer](Behavioral/Observer)** (**Used for:** notifying objects that a particular subject's state changed) - **very useful**
-- State
+- [State](Behavioral/State) (**Used for:** allowing an object's behavior to change when its internal state does) - **somehow useful**
 - Strategy
 - Template Method
 - Visitor
