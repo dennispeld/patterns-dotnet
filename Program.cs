@@ -81,6 +81,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("NULL OBJECT");
             Behavioral.NullObject.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("OBSERVER");
+            Behavioral.Observer.Starter.Run();
             #endregion Behavioral
         }
     }

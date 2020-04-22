@@ -24,8 +24,8 @@
 - **[Iterator](Behavioral/Iterator)** (**Used for:** extracting objects from a collection without exposing the collection itself) - **very useful**
 - [Mediator](Behavioral/Mediator) (**Used for:** defining how objects interact with each other)
 - [Memento](Behavioral/Memento) (**Used for:** restoring an object's state from a previous state)
-- [Null Object](Behavioral/NullObject) (**Used for:** ignore a piece of functionality)
-- Observer
+- [Null Object](Behavioral/NullObject) (**Used for:** ignoring a piece of functionality)
+- **[Observer](Behavioral/Observer)** (**Used for:** notifying objects that a particular subject's state changed) - **very useful**
 - State
 - Strategy
 - Template Method
