@@ -28,5 +28,5 @@
 - **[Observer](Behavioral/Observer)** (**Used for:** notifying objects that a particular subject's state changed) - **very useful**
 - [State](Behavioral/State) (**Used for:** allowing an object's behavior to change when its internal state does) - **somehow useful**
 - **[Strategy](Behavioral/Strategy)** (**Used for:** encapsulating parts of an algorithm as objects and allowing them to be invoked independently) - **very useful**
-- Template Method
+- **[Template Method](Behavioral/TemplateMethod)** (**Used for:** creating an outline of an algorithm but letting specific steps be implemented by other classes) - **very useful**
 - Visitor

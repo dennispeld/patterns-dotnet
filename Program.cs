@@ -93,6 +93,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("STRATEGY");
             Behavioral.Strategy.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("TEMPLATE METHOD");
+            Behavioral.TemplateMethod.Starter.Run();
             #endregion Behavioral
         }
     }
