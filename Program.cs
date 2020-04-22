@@ -77,6 +77,10 @@ namespace PATTERNS.NET
             Console.WriteLine();
             Console.WriteLine("MEMENTO");
             Behavioral.Memento.Starter.Run();
+
+            Console.WriteLine();
+            Console.WriteLine("NULL OBJECT");
+            Behavioral.NullObject.Starter.Run();
             #endregion Behavioral
         }
     }
