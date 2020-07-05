@@ -1,7 +1,7 @@
 # Decorator
 
 **Decorator** is a design pattern, in which we are adding new functionality to an existing object without changing that object's definition
-(Similar to Open-Closed princple).
+(similar to Open-Closed princple).
 
 ## Example
 Let's say, we have a an online store that sells paper books. A new initiative is to digitalize them and sell eBooks, which would help the
